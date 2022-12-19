@@ -30,13 +30,13 @@ header {
 
     .logo {
         font-size: 40pt !important;
-        background-color: $logo-color;
-        border-radius: 50%;
+/*         background-color: $logo-color;
+ */        border-radius: 50%;
         width: 90px;
         height: 90px;
         border: 5px $logo-color solid;
         position: relative;
-        color: $logo-color;
+        /* color: $logo-color; */
         z-index: 4;
         display: flex;
         align-items: center;
